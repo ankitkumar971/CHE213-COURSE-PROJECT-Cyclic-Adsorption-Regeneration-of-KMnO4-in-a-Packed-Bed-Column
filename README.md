@@ -1,0 +1,2 @@
+# CHE213-COURSE-PROJECT-Cyclic-Adsorption-Regeneration-of-KMnO4-in-a-Packed-Bed-Column
+Course Project for CHE213 (Mass Transfer Laboratory) at IIT Kanpur. This project investigates cyclic adsorption–regeneration behavior of KMnO₄ in a packed bed column using activated charcoal. The study analyzes breakthrough curves, LUB, adsorption efficiency, regeneration performance, and MATLAB-based data analysis.
